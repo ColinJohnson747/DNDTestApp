@@ -1,0 +1,55 @@
+{
+  "name": "dndtestapp",
+  "version": "1.0.0",
+  "description": "test site",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinJohnson747/DNDTestApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinJohnson747/DNDTestApp/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcrypt": "^3.0.2",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.5.0",
+    "cloudinary": "^1.22.0",
+    "cloudinary-react": "^1.6.2",
+    "concurrently": "^5.2.0",
+    "connect-mongo": "^3.2.0",
+    "cors": "^2.8.5",
+    "emailjs-com": "^2.6.3",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "firebase": "^7.17.1",
+    "if-env": "^1.0.4",
+    "mongoose": "^5.9.14",
+    "mongoose-data-seed": "^2.1.6",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.4.10",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "react-awesome-slider": "^4.1.0",
+    "react-bootstrap": "^1.2.2",
+    "react-functional-select": "^2.6.0",
+    "react-google-maps": "^9.4.5",
+    "react-icons": "^3.10.0",
+    "react-scripts": "^3.4.1",
+    "react-router": "^5.2.0",
+    "react-select": "^3.1.0",
+    "react-transition-group": "^4.4.1",
+    "react-window": "^1.8.5",
+    "recompose": "^0.30.0",
+    "styled-components": "^5.1.1",
+    "yarn": "^1.22.4"
+  },
+  "homepage": "https://github.com/ColinJohnson747/DNDTestApp#readme"
+}
